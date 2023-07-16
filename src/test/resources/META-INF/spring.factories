@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.enemax.\
+    config.TestContainersSpringContextCustomizerFactory,com.kosasih.enemax.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.enemax.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
