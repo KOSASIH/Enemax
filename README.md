@@ -53,7 +53,7 @@ We welcome contributions from the community to enhance Enemax and make it even m
 
 ## License
 
-Enemax is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute Enemax for both commercial and non-commercial purposes.
+Enemax is released under the [MIT License](https://github.com/KOSASIH/Enemax/blob/main/LICENSE). You are free to use, modify, and distribute Enemax for both commercial and non-commercial purposes.
 
 ## Support
 
